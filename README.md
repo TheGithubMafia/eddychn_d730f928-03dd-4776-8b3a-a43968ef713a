@@ -1,6 +1,6 @@
-# Shopi
+# React Native E-Commerce App
 
-Shopi is an open source e-commerce app developed for practicing purpose using React Native.
+E-commerce app developed for practicing purpose using React Native.
 the UI is based on some shots from [Dribbble](https://dribbble.com/shots/15960381-Clothing-E-commerce-App)
 
 
@@ -8,11 +8,11 @@ the UI is based on some shots from [Dribbble](https://dribbble.com/shots/1596038
 
 ![Gif Preview](https://raw.githubusercontent.com/omer73364/shopi/main/preview/preview.gif)
 
-# Using the code
-To use the code:
+# Demo
+To run the demo:
 - make sure that you have [Node js](https://nodejs.org/en/) and [expo-cli](https://docs.expo.dev/workflow/expo-cli/) installed on your computer
 - clone the code from this github repository:
- `git clone https://github.com/omer73364/shopi.git`
+ `git clone https://github.com/eddychn/react_native_ecommerce.git`
  - install dependencies via `yarn`
  - run the app using `expo start` command
 
